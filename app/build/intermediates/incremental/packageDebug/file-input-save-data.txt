@@ -1,0 +1,24 @@
+#Internal package file, do not edit.
+#Sat Jul 22 10:51:16 CST 2017
+2.base=E\:\\github\\city_cn\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=E\:\\github\\city_cn\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+5.set=ANDROID_RESOURCE
+3.base=E\:\\github\\city_cn\\app\\build\\intermediates\\res\\resources-debug.ap_
+6.file=E\:\\github\\city_cn\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\ic_launcher.png
+2.set=ANDROID_RESOURCE
+4.base=E\:\\github\\city_cn\\app\\build\\intermediates\\res\\resources-debug.ap_
+count=7
+0.file=E\:\\github\\city_cn\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+5.base=E\:\\github\\city_cn\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.set=ANDROID_RESOURCE
+6.base=E\:\\github\\city_cn\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=E\:\\github\\city_cn\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\item.xml
+1.set=ANDROID_RESOURCE
+2.file=E\:\\github\\city_cn\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\raw\\city.s3db
+6.set=ANDROID_RESOURCE
+0.base=E\:\\github\\city_cn\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+3.file=E\:\\github\\city_cn\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\main.xml
+3.set=ANDROID_RESOURCE
+1.base=E\:\\github\\city_cn\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=E\:\\github\\city_cn\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+0.set=DEX
